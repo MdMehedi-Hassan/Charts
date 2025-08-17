@@ -1,5 +1,5 @@
-# Chart
-# Python Data Visualization Examples
+# Charts
+## Python Data Visualization Examples
 
 A comprehensive collection of **Python charts and visualizations** using `Matplotlib`, `Plotly`, `Seaborn`, and `NetworkX`.  
 This repository demonstrates **common, advanced, and special chart types**, from simple line charts to complex network diagrams and geospatial maps, suitable for **Data Science, analytics, and dashboards**.
